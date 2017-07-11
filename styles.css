@@ -9,7 +9,7 @@ body {
 }		
 
 .header-content {
-	z-index:1;
+	z-index: 1;
 	display:block;
 	position:absolute;
 	top: 40%;
@@ -42,13 +42,12 @@ p {
 }
 
 .button {
+	font-family:'Open Sans', sans-serif;
+	font-size:12px;
 	border: 1px solid white;
 	width: 250px;
 	height: 50px;
-	font-family:'Open Sans', sans-serif;
-	font-size:12px;
 	text-align: center;
-	display: block;
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 2px;
