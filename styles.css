@@ -34,7 +34,11 @@ p {
 	color: white;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
+<<<<<<< HEAD
 	font-weight: 300;
+=======
+	font-weight: 400;
+>>>>>>> fixed font weight
 	font-size: 24px;
 	line-height: 36px;
 	margin-top: 60px;
@@ -90,7 +94,11 @@ p {
 	color: white;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
+<<<<<<< HEAD
 	font-weight: 300;
+=======
+	font-weight: 400;
+>>>>>>> fixed font weight
 	font-size: 16px;
 	line-height: 24px;
 	margin-top: 60px;
