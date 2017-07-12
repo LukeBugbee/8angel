@@ -66,15 +66,12 @@ p {
 }
 
 @media screen and (max-width:795px) {
-	#logo {
-	position: relative;
-	width: 150px;
-	fill: white;
-	display:block;
-	margin:0 auto;
-}
-	p {
-		font-size: 16px;
-		line-height: 24px;
+	
+	.button {
+		position:absolute;
+		width:100%;
+		bottom:0;
 	}
 }
+
+	
