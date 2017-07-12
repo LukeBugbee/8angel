@@ -72,7 +72,7 @@ p {
 		z-index: 1;
 		display:block;
 		position:absolute;
-		border:1px solid red;
+		/*border:1px solid red;*/
 		width:100%;
 		padding:30px;
 	}
@@ -82,7 +82,7 @@ p {
 	width: 250px;
 	fill: white;
 	display:block;
-	margin:0 auto;
+	margin:60px auto;
 }
 
 p {
