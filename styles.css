@@ -41,7 +41,7 @@ p {
 	max-width: 750px; 
 }
 
-/*.button {
+.button {
 	font-family:'Open Sans', sans-serif;
 	font-size:12px;
 	border: 1px solid white;
@@ -56,7 +56,7 @@ p {
 	margin:0 auto;
 	margin-top: 60px;
 	padding:15px;
-}*/
+}
 
 .button:hover {
 	cursor: pointer;
